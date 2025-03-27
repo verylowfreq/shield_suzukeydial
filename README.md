@@ -1,7 +1,8 @@
-# "SuzuKeyDial" - マクロパッド シールド基板
+# "SuzuKeyDial" - マクロパッド シールド基板 (ADSZMPS)
 
 ![adszmps_photo](https://github.com/user-attachments/assets/fb824bea-97e8-451a-842c-3342c3abbc9e)
 
+**ビット・トレード・ワンより2025年4月4日、発売開始です！ [https://bit-trade-one.co.jp/adszmps/](https://bit-trade-one.co.jp/adszmps/)**
 
 キースイッチ4つとロータリーエンコーダーを2つ搭載した、Arduino UNOシールド基板です。UNO互換ボードに差し込んで入力インターフェースとして利用できます。
 
